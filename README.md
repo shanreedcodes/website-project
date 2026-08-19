@@ -17,3 +17,20 @@
 - [X] Modify `index.html` to Add a Navigation Bar
 - [X] Commit the Changes
 
+
+---
+
+## Part 3: Work on Another Feature Using a Separate Branch
+
+### Task 2: Add a Footer
+
+- [X] Create a Branch for Feature 2 (Footer)
+- [X] Modify index.html to Add a Footer
+- [X] Commit the Changes
+
+
+---
+
+- [ ] 
+- [ ] 
+- [ ] 
