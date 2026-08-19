@@ -54,3 +54,8 @@
 - [X] Create a Branch: Create a new branch called `feature/contact-form`.
 - [X] Modify `index.html`: Add a simple contact form with fields for `name`, `email`, and `message`.
 - [X] Commit: Stage and commit your changes.
+
+### Task 5: Add a Testimonials Section
+- [X] Create a Branch: Create a new branch called `feature/testimonials`
+- [X] Modify `index.html`: Add a section for customer testimonials with a few placeholder quotes
+- [X] Commit: Stage and commit your changes
