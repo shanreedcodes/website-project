@@ -34,6 +34,7 @@
 
 ## Part 4: Merge Your Work and Resolve Conflicts
 
-- [ ] Merge feature/navigation-bar into main
-- [ ] 
-- [ ] 
+- [X] Merge feature/navigation-bar into main
+- [X] Merge feature/footer into main
+- [X] Resolve the Merge Conflict(If a merge conflict happens)
+- [X] Commit the Resolved File(If a merge conflict happens)
