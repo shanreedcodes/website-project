@@ -28,4 +28,36 @@ body, html {
     width: 500px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact-form {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+}
+
+.contact-form input, textarea{
+    border: 2px solid #eb9153;
+    margin-bottom: 10px;
+}
+
+.contact-form input, textarea, button{
+    border-radius: 4px;
+    
+}
+
+.contact-form button {
+    border: 2px solid black;
+    background-color: #eb9153;
+    width: 50%;
+    margin: 10px auto;
+    cursor: pointer;
+}
+
+.contact-form button:hover{
+    background-color: #d25ff2;
 }

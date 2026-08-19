@@ -46,11 +46,11 @@
 ## Part 5: Explore Additional Features and Practice Branching
 
 ### Task 3: Add a Hero Section
-- [X] Create a Branch: Create a new branch called feature/hero-section.
-- [X] Modify index.html: Add a hero section with an image or background, heading, and a short paragraph.
+- [X] Create a Branch: Create a new branch called `feature/hero-section`.
+- [X] Modify `index.html`: Add a hero section with an image or background, heading, and a short paragraph.
 - [X] Commit: Stage and commit your changes.
 
 ### Task 4: Add a Contact Form
-- [ ] Create a Branch: Create a new branch called feature/contact-form.
-- [ ] Modify index.html: Add a simple contact form with fields for name, email, and message.
-- [ ] Commit: Stage and commit your changes.
+- [X] Create a Branch: Create a new branch called `feature/contact-form`.
+- [X] Modify `index.html`: Add a simple contact form with fields for `name`, `email`, and `message`.
+- [X] Commit: Stage and commit your changes.
