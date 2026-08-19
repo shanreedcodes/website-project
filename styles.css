@@ -9,8 +9,14 @@ body, html {
   background-image: url('./assets/images/girl-coding.png');
   background-size: cover;
   background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-align: center;
 }
 
-.hero-content{
-    color: white;
+.hero-content p{
+    width: 500px;
+    font-size: 1.2rem;
 }
