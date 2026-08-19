@@ -31,6 +31,9 @@
 
 ---
 
-- [ ] 
+
+## Part 4: Merge Your Work and Resolve Conflicts
+
+- [ ] Merge feature/navigation-bar into main
 - [ ] 
 - [ ] 
