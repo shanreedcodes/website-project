@@ -5,9 +5,12 @@ body, html {
 }
 
 .hero-section{
-    
+  height: 70vh;
+  background-image: url('./assets/images/girl-coding.png');
+  background-size: cover;
+  background-position: center;
 }
 
 .hero-content{
-
+    color: white;
 }
