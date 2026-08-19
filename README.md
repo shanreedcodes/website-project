@@ -11,8 +11,10 @@
 
 ## Part 2: Work on Separate Features Using Branches
 
-- [ ] 
-- [ ] 
-- [ ] 
+### Task 1: Add a Navigation Bar
+
+- [ ] Create a Branch for Feature 1 (Navigation Bar)
+- [ ] Modify `index.html` to Add a Navigation Bar
+- [ ] Commit the Changes
 - [ ] 
 - [ ] 
