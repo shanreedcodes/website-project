@@ -16,6 +16,7 @@
 - [X] Create a Branch for Feature 1 (Navigation Bar)
 - [X] Modify `index.html` to Add a Navigation Bar
 - [X] Commit the Changes
+- [X] Push the changes
 
 
 ---
@@ -27,6 +28,7 @@
 - [X] Create a Branch for Feature 2 (Footer)
 - [X] Modify index.html to Add a Footer
 - [X] Commit the Changes
+- [X] Push the changes
 
 
 ---
