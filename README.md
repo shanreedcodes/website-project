@@ -5,6 +5,7 @@
 - [X] Create a New Local Repository
 - [X] Create a Simple HTML File
 - [X] Commit the Initial Version
+- [X] Push changes to `main` branch
 
 
 ---
@@ -16,7 +17,7 @@
 - [X] Create a Branch for Feature 1 (Navigation Bar)
 - [X] Modify `index.html` to Add a Navigation Bar
 - [X] Commit the Changes
-- [X] Push the changes
+- [X] Push the changes to `feature/navigation-bar` branch
 
 
 ---
@@ -28,7 +29,7 @@
 - [X] Create a Branch for Feature 2 (Footer)
 - [X] Modify index.html to Add a Footer
 - [X] Commit the Changes
-- [X] Push the changes
+- [X] Push the changes to `feature/footer` branch
 
 
 ---
