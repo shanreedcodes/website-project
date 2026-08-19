@@ -40,3 +40,12 @@
 - [X] Merge `feature/navigation-bar` into main
 - [X] Merge `feature/footer` into main
 - [X] If merge conflict happens, resolve and commit the eerge conflict
+
+---
+
+## Part 5: Explore Additional Features and Practice Branching
+
+### Task 3: Add a Hero Section
+- [X] Create a Branch: Create a new branch called feature/hero-section.
+- [X] Modify index.html: Add a hero section with an image or background, heading, and a short paragraph.
+- [X] Commit: Stage and commit your changes.
