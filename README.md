@@ -39,7 +39,7 @@
 
 - [X] Merge `feature/navigation-bar` into main
 - [X] Merge `feature/footer` into main
-- [X] If merge conflict happens, resolve and commit the eerge conflict
+- [X] If merge conflict happens, resolve and commit 
 
 ---
 
@@ -59,3 +59,9 @@
 - [X] Create a Branch: Create a new branch called `feature/testimonials`
 - [X] Modify `index.html`: Add a section for customer testimonials with a few placeholder quotes
 - [X] Commit: Stage and commit your changes
+
+
+
+
+### Part 6: Push Your Work to GitHub
+- [ ] Push the Changes to GitHub
